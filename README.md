@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18623
-Fork on GitHub5548
 <h1 align="center">Hi 👋, I'm Shashank Saxena</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
